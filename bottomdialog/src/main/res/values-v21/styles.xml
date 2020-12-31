@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <style name="MD_Light.BottomDialog" parent="MD_Light">
+    <item name="android:windowIsFloating">false</item>
+    <item name="android:windowAnimationStyle">@style/bottom_dialog</item>
+    <item name="android:statusBarColor">@android:color/transparent</item>
+  </style>
+
+  <style name="MD_Dark.BottomDialog" parent="MD_Dark">
+    <item name="android:windowIsFloating">false</item>
+    <item name="android:windowAnimationStyle">@style/bottom_dialog</item>
+    <item name="android:statusBarColor">@android:color/transparent</item>
+  </style>
+
+</resources>
